@@ -6,7 +6,8 @@
   text-align: center;
   color: white;
 }
-a:link {
+#top a:link {
+  font-size: 18px;
   color: white;
 }
 h1 {
@@ -20,4 +21,11 @@ h1 {
 h2 {
   font-size: 32px;
   font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+#about p {
+  font-size: 14px;
 }
