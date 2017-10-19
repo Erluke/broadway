@@ -57,3 +57,18 @@ h4 {
 #contact p {
   font-size: 14px;
 }
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+footer a:link {
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+}
+footer a:visited {
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
+}
