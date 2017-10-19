@@ -10,6 +10,10 @@
   font-size: 18px;
   color: white;
 }
+#top a:visited {
+  font-size: 18px;
+  color: white;
+}
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -37,4 +41,19 @@ h4 {
 }
 #work {
   text-align: center;
+}
+#work p {
+  font-size: 14px;
+}
+#team {
+  text-align: center;
+}
+#team p {
+  font-size: 14px;
+}
+#contact {
+  text-align: center;
+}
+#contact p {
+  font-size: 14px;
 }
